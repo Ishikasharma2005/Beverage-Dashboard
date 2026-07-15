@@ -1,20 +1,19 @@
-🥤 Beverage Sales Dashboard
+# 🥤 Beverage Sales Dashboard
 
 An interactive **Microsoft Excel Dashboard** designed to analyze beverage sales performance across multiple regions, retailers, delivery companies, and products. This dashboard transforms raw sales data into actionable business insights through interactive visualizations and dynamic filtering.
 
 ---
 
-📌 Project Overview
+# 📌 Project Overview
 
 The **Beverage Sales Dashboard** provides a comprehensive view of sales performance by presenting key business metrics, regional sales distribution, retailer performance, delivery efficiency, and product analysis. The dashboard enables users to explore data using interactive slicers for better decision-making.
 
 ---
-🖼️ Dashboard Preview
+# 🖼️ Dashboard Preview
 
 ![Beverage Sales Dashboard](dashboard.png)
-```
 
-🎯 Project Objective
+#  🎯 Project Objective
 
 The objective of this project is to:
 
@@ -27,7 +26,7 @@ The objective of this project is to:
 
 ---
 
-📊 Dashboard Features
+#  📊 Dashboard Features
 
 ✅ Total Sales KPI
 
@@ -52,7 +51,7 @@ The objective of this project is to:
 
 ---
 
-📈 Key Performance Indicators (KPIs)
+#  📈 Key Performance Indicators (KPIs)
 
 - 💰 Total Sales
 - 📦 Units Sold
@@ -63,7 +62,7 @@ The objective of this project is to:
 
 ---
 
-🛠️ Tools & Technologies Used
+#  🛠️ Tools & Technologies Used
 
 - 📊 Microsoft Excel
 - 📈 Pivot Tables
@@ -75,7 +74,7 @@ The objective of this project is to:
 
 ---
 
-💡 Excel Skills Demonstrated
+ # 💡 Excel Skills Demonstrated
 
 - ✔️ Data Cleaning
 - ✔️ Data Analysis
@@ -88,7 +87,7 @@ The objective of this project is to:
 
 ---
 
-📊 Business Insights
+# 📊 Business Insights
 
 - 📍 Midwest recorded the highest regional sales.
 - 🛒 Walmart contributed the highest retailer sales.
@@ -101,12 +100,12 @@ The objective of this project is to:
 
 ---
 
-👩‍💻 Author
+# 👩‍💻 Author
 
 **Ishika Sharma**
 
 LinkedIn: www.linkedin.com/in/ishika-sharma-70435641b
 
-GitHub:https://github.com/Ishikasharma2005/Pizza-Dashboard
+GitHub: https://github.com/Ishikasharma2005/Beverage-Dashboard
 
 Gmail: ishikasharmaa25@gmail.com
